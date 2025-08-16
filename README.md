@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project analyzes a pizza shop's sales data to uncover **sales trends, top-selling pizzas, and revenue patterns**.  
 The analysis is performed using **SQL (MySQL)** and presented in a structured format with clear insights and visualizations.
-
+📄 **Note:** A detailed **PDF report** (`Pizza_Sales_Analysis.pdf`) containing all SQL queries and outputs is included in this repository for easy reference.  
 ---
 
 ## 🎯 Project Goal
@@ -94,3 +94,14 @@ Pizza_Shop_Sales/
 ├── order_details.csv
 ├── pizzas.csv
 └── pizza_types.csv
+
+---
+
+## 📂 Repository Contents  
+- `Pizza_Sales_Analysis.pdf` → Detailed SQL queries & outputs with insights  
+- SQL scripts (if provided)  
+- README documentation  
+
+---
+
+✨ This project demonstrates **SQL querying, joins, aggregations, and time-based analysis** for business decision-making.  
