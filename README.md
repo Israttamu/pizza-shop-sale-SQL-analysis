@@ -85,19 +85,6 @@ The analysis is performed using **SQL (MySQL)** and presented in a structured fo
 
 ---
 
-## 📂 Project Structure
-Pizza_Shop_Sales/
-│── README.md
-│── pizza_shop_schema.png
-│── Pizza_shop_sales.pdf
-└── data/
-├── orders.csv
-├── order_details.csv
-├── pizzas.csv
-└── pizza_types.csv
-
----
-
 ## 📂 Repository Contents  
 - `Pizza_Sales_Analysis.pdf` → Detailed SQL queries & outputs with insights  
 - SQL scripts (if provided)  
@@ -106,4 +93,5 @@ Pizza_Shop_Sales/
 ---
 
 ✨ This project demonstrates **SQL querying, joins, aggregations, and time-based analysis** for business decision-making.  
+
 
